@@ -32,4 +32,4 @@ Este Projeto está sob a licença MIT.
 
 ## Acesso ao Projeto:
 
-Você pode acessar este Projeto 👉 [aqui](https://alurinha-93xv.vercel.app/)
+Você pode acessar este Projeto 👉 [aqui](https://barbearia-alura-tau-seven.vercel.app/)
